@@ -57,11 +57,12 @@ const AllToys = () => {
         <table className="table table-compact w-full ">
           <thead>
             <tr>
-
+              <th>Sl</th>
+              <th>Toy Name</th>
+              <th>Seller Name</th>
               <th>Sub Category</th>
               <th>Price</th>
-              <th>Quantity</th>
-              <th>Details</th>
+
             </tr>
           </thead>
           <tbody>
