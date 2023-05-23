@@ -170,7 +170,7 @@ const AddToys = () => {
 
           <div className="form-control">
             <label className="label">
-              <span className="label-text">Ratings</span>
+
             </label>
             <input
               type="number"
