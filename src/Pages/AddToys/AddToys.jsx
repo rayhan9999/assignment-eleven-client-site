@@ -206,7 +206,11 @@ const AddToys = () => {
         </div>
 
         <div className="text-center my-10">
-
+          <input
+            type="submit"
+            value="submit"
+            className="btn btn-primary btn-block"
+          />
         </div>
       </form>
     </div>
