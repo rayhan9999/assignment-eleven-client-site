@@ -1,0 +1,42 @@
+[
+  {
+    "_id": "1",
+    "picture": "https://images.unsplash.com/photo-1581557991964-125469da3b8a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=533&q=80",
+    "toyName": " X-man Car",
+    "subcategory": "X",
+    "price": 19.99,
+    "rating": 4.5,
+    "quantity": 10,
+    "description": "X-man Is Powerful"
+  },
+  {
+    "_id": "2",
+    "picture": "https://example.com/truck.jpg",
+    "toyName": "SpiderMan Car",
+    "subcategory": "spider",
+    "price": 24.99,
+    "rating": 4.2,
+    "quantity": 8,
+    "description": "Spider Man Is Strong"
+  },
+  {
+    "_id": "3",
+    "picture": "https://example.com/regular_car.jpg",
+    "toyName": " Batman Car",
+    "subcategory": "Batman",
+    "price": 14.99,
+    "rating": 4.0,
+    "quantity": 12,
+    "description": "Batman Is Strong"
+  },
+  {
+    "_id": "4",
+    "picture": "https://example.com/mini_fire_truck.jpg",
+    "toyName": "IronMan Car",
+    "subcategory": "IronMan",
+    "price": 12.99,
+    "rating": 4.7,
+    "quantity": 6,
+    "description": "IronMan Is Strong"
+  }
+]
