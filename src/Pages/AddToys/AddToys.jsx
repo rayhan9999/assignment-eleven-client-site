@@ -196,7 +196,12 @@ const AddToys = () => {
               <span className="label-text">Description</span>
             </label>
 
-
+            <textarea
+              className="textarea textarea-bordered"
+              type="text"
+              name="details"
+              placeholder="description"
+            ></textarea>
           </div>
         </div>
 
