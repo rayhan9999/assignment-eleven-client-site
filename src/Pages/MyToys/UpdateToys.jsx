@@ -17,7 +17,10 @@ const UpdateToys = () => {
     const form = e.target;
     const toyName = form.name.value;
 
-
+    const price = form.price.value;
+    const quantity = form.quantity.value;
+    const photo = form.photo.value;
+    const details = form.details.value;
 
     const updatedToy = {
       toyName,
