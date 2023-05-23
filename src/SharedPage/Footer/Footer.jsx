@@ -6,12 +6,7 @@ const Footer = () => {
     <div>
       <footer className="footer p-10 bg-[#1abce4] text-yellow-400-500">
         <div>
-          <p>
-            <span className="text-purple-500 text-3xl font-bold">Malik Robotics ToyZone</span>
-            <br />
-            <br />
-            Online and Offline Both Available
-          </p>
+
           <div className="flex justify-center mt-2">
             <Link to="#" className=" mr-2">
               <FaFacebook className="text-white text-xl" />
